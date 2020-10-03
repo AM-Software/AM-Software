@@ -1,4 +1,8 @@
-### Hi there 👋
+# AM Software 👋
+#### Building The Future
+
+AM Software is an up-and-coming Startup developing state-of-the-art software and providing world-class IT services such as tailored software development, e-commerce, website development, digital marketing, consulting and much more to businesses, brands and organizations of any size and industry around the world, at the most affordable rates.
+
 
 <!--
 **AM-Software/AM-Software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
